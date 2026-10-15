@@ -1,0 +1,21 @@
+name,height,mass,hair_color,skin_color,eye_color,birth_year,sex,gender,homeworld,species
+Luke Skywalker,172,77.0,blond,fair,blue,19.0,male,masculine,Tatooine,Human
+C-3PO,167,75.0,n/a,gold,yellow,112.0,none,masculine,Tatooine,Droid
+R2-D2,96,32.0,n/a,"white, blue",red,33.0,none,masculine,Naboo,Droid
+Darth Vader,202,136.0,none,white,yellow,41.9,male,masculine,Tatooine,Human
+Leia Organa,150,49.0,brown,light,brown,19.0,female,feminine,Alderaan,Human
+Owen Lars,178,120.0,"brown, grey",light,blue,52.0,male,masculine,Tatooine,Human
+Beru Whitesun lars,165,75.0,brown,light,blue,47.0,female,feminine,Tatooine,Human
+R5-D4,97,32.0,n/a,"white, red",red,,none,masculine,Tatooine,Droid
+Biggs Darklighter,183,84.0,black,light,brown,24.0,male,masculine,Tatooine,Human
+Obi-Wan Kenobi,182,77.0,"auburn, white",fair,blue-gray,57.0,male,masculine,Stewjon,Human
+Anakin Skywalker,188,84.0,blond,fair,blue,41.9,male,masculine,Tatooine,Human
+Wilhuff Tarkin,180,,"auburn, grey",fair,blue,64.0,male,masculine,Eriadu,Human
+Chewbacca,228,112.0,brown,unknown,blue,200.0,male,masculine,Kashyyyk,Wookiee
+Han Solo,180,80.0,brown,fair,brown,29.0,male,masculine,Corellia,Human
+Greedo,173,74.0,n/a,green,black,44.0,male,masculine,Rodia,Rodian
+Jabba Desilijic Tiure,175,135.0,n/a,"green-tan, brown",orange,600.0,hermaphrodite,masculine,Nal Hutta,Hutt
+Wedge Antilles,170,77.0,brown,fair,hazel,21.0,male,masculine,Corellia,Human
+Jek Tono Porkins,180,110.0,brown,fair,blue,,male,masculine,Bestine IV,Human
+Yoda,66,17.0,white,green,brown,896.0,male,masculine,unknown,Yoda's species
+Palpatine,170,75.0,grey,pale,yellow,82.0,male,masculine,Naboo,Human
